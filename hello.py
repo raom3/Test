@@ -5,7 +5,7 @@ print(6/2)
 print("Bob" *3)
 print ("hello".upper())
 print ("the lord of the rings".title())
-
+print('Hi')
 
 age =10
 like = "painting"
